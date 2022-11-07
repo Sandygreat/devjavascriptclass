@@ -1,0 +1,1 @@
+document.getElementById('oic').innerHTML="Welcome to OIC Hub Javascript class";
